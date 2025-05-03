@@ -19,4 +19,12 @@ Al final veo como deciden mudarse porque alguien mas los llamaba. El juego me ar
 
 ## Capitulo
 
+Continuando con el capitulo, este sigue los acontecimientos de Bandersnatch, la misma compañia (Tuckersoft) crea este juego, Tropeles. Este juego se le es presentado a un reconocido reseñador de videojuegos para que haga una reseña del mismo, sin embargo este comenta despues que el sentia que el proposito de que lo invitaran aquella vez era para que se robaran el juego. Para poner en contexto, se nos muestra como es arrestado el personaje principal, ya que es sospechoso de homicidio, en el cual explica en el interrogatorio los motivos por los cuales cometio homicidio. En su explicacion menciona como llego a conseguir el Software de los Tropeles, el cual con el tiempo de jugarlo y con la ayuda de drogas que le dio su "amigo" fue que logro entender a los Tropeles, ya que como se le habia explicado antes, el Software estaba hecho para que los mismos Tropeles evolucionaran solos con el tiempo y aprendieran a hacer cosas de las cuales ni siquiera se les habia programado para que hicieran.
+
+Total, el personaje principal se encariño mucho con los Tropeles, tanto que dedico su vida a ayudarlos a actualizar su Software con el tiempo para saciar los requisistos operativos de los tropeles. Es en alguno de estos momentos donde explica el porque asesino a su "amigo". Resulta que debido al cariño que tenia por los Tropeles, no soporto que su "amigo" (en ausencia del personaje principal debido a temas laborales) decidiera empezar a matar a los Tropeles por diversion. Cuando el personaje principal regresa y nota lo sucedio, lleno de furia decide matar a su "amigo".
+
+Despues empieza a explicar que con el tiempo y con el objetivo de cumplir la mision de los Tropeles llego incluso a operarse el mismo para ponerse un implante para que los Tropeles pudieran acceder a la informacion de su cerebro. Platico de como fue que se fuciono con los Tropeles y de como era necesario mas potencia que el no podia cumplir. Despues vemos que solicita una pluma y una hoja, para despues hacer una especie de codigo QR, el cual era una entrada directa para los Tropeles para apoderarse de ese Hardware mas potente y asi poder cumplir su objetivo final: Unir a todos en uno mismo con ayuda de todos los dispositivos del mundo para poder enviar señales a frecuencias especificas al cerebro y evitar el uso de implantes y asi, a la fuerza, fucionar a todos en uno mismo.
+
+![Tropel](https://github.com/user-attachments/assets/5752b742-65f2-4bb4-ae67-864bf279bb73)
+
 ## Conclusion
